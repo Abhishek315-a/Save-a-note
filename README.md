@@ -17,6 +17,6 @@ A simple note-taking web app to write, save, view, edit, delete, and share notes
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/save-a-note.git
+   git clone https://github.com/Abhishek315-a/save-a-note.git
    cd save-a-note
 
